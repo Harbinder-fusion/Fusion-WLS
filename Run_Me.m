@@ -13,8 +13,8 @@
 % https://sites.google.com/view/harbinder-fusion/home?authuser=0
 %
 % 
-% The main function for range compression ("WLS_Fusion.m")
-% It takes as input a image sequence (3-channel), and
+% The main function for image fusion ("WLS_Fusion.p")
+% It takes as input a image sequence (color image), and
 % returns as output the fused image.
 % We find the default parameter setting works quite well for most image 
 % series we've experimented with. To see default parameter settings, please
